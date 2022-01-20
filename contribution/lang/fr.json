@@ -37,7 +37,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Souhaitez-vous acheté des Unités, ou les utiliser ?"
+ 	 	 	 	 	"Souhaitez-vous acheter des Unités, ou les utiliser ?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -281,7 +281,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent. Vous pourrez trouver ici toute sortes de personnes venant du monde entier.",
+ 	 	 	 	"trans": "[Hub Central]\r\n        L'une des villes les plus actives du continent. Vous pourrez trouver ici toutes sortes de personnes venant du monde entier.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -506,7 +506,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Fragment Secret de clé. Utilisé pour cracker une clé.\r\n                                Utilisez le Terminal situé dans le Centre-ville [Hub] pour cracker une clé secrète de ${segmentDisplayName}.\r\n                                Vous pouvez acquérir chacun des 3 fragments nécessaires dans chaque donjon (que ce soit en difficulté normale ou challenge),\r\n                                lorsque vous avez acquis les 3 clés, vous pouvez utiliser le Terminal pour cracker (fabriquer) la clé pour accéder à la zone suivante",
+ 	 	 	 	"trans": "Fragment Secret de clé utilisé pour cracker une clé scrète.\r\n                                Utilisez le Terminal situé dans le Centre-ville [Hub] pour cracker une clé secrète de ${segmentDisplayName}.\r\n                                Vous pouvez acquérir chacun des 3 fragments nécessaires dans chaque donjon (que ce soit en difficulté normale ou challenge),\r\n                                lorsque vous avez acquis les 3 clés, vous pouvez utiliser le Terminal pour cracker (fabriquer) la clé pour accéder à la zone suivante",
  	 	 	 	"eng": "A secret key Fragment used to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -523,7 +523,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Un plan contenant des informations utilisées pour l'impression 3D moléculaire d'un(e) ${typeName}, \r\n                    Vous pouvez créer un(e) ${typeName} avec le [Molecular 3d Printer] au [Central Hub].\r\n                    \r\n                    Astuce : Le niveau de l'objet obtenu par impression est déterminé par votre proficience en impression,\r\n                    donc imprimez toujours ceux de qualité défaillante, vu qu'ils coûtent moins et sont utiles pour améiorer votre proficience en impression",
+ 	 	 	 	"trans": "Un plan contenant des informations utilisées pour l'impression 3D moléculaire d'un(e) ${typeName}, \r\n                    Vous pouvez créer un(e) ${typeName} avec le [Molecular 3d Printer] au [Central Hub].\r\n                    \r\n                    Astuce : Le niveau de l'objet obtenu par impression est déterminé par votre rang d'impression,\r\n                    donc imprimez toujours ceux de qualité défaillante, vu qu'ils coûtent moins et sont utiles pour améliorer votre rang d'impression",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -569,7 +569,7 @@
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot de Réparation Dégradé",
+ 	 	 	 	"trans": "Nano Bot de réparation dégradé",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
@@ -579,7 +579,7 @@
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médical Dégradé",
+ 	 	 	 	"trans": "Nano Bot médical Dégradé",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -589,7 +589,7 @@
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médical",
+ 	 	 	 	"trans": "Nano Bot médical",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -599,7 +599,7 @@
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médical Militaire",
+ 	 	 	 	"trans": "Nano Bot médical militaire",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -619,7 +619,7 @@
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médical de Haute Qualité",
+ 	 	 	 	"trans": "Nano Bot médical de haute qualité",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -629,7 +629,7 @@
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médical Rare",
+ 	 	 	 	"trans": "Nano Bot médical rare",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -639,11 +639,11 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Spray Anti-douleurs",
+ 	 	 	 	"trans": "Spray anti-douleurs",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Est-ce que votre ami et vous avez des maux de tête ? Utilisez un Spray Anti-douleurs™ pour vous soulager !",
+ 	 	 	 	"trans": "Est-ce que votre ami et vous avez des maux de tête ? Utilisez un Spray anti-douleurs™ pour vous soulager !",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -739,11 +739,11 @@
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Processeur de hash",
+ 	 	 	 	"trans": "Processeur de hachage",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Peut être utilisé comme un hardware dédié pour miner des BitCoin, \r\n        cependant en raison de l'overclocking, le processeur s'épuisse facilement,\r\n         Vous pouvez l'utiliser pour miner des BitCoin a la [ZONE DE TAFF]",
+ 	 	 	 	"trans": "Peut être utilisé comme un hardware dédié pour miner des BitCoin, \r\n        cependant en raison de l'overclocking, le processeur s'épuise facilement,\r\n         Vous pouvez l'utiliser pour miner des BitCoin à la [ZONE DE TAFF]",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
@@ -753,7 +753,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pour 10 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leurs processeurs synaptique afin de les doter de capacités mentales surhumaines pour une courte période.\r\n        \r\n        Quand utilisé, donne un buff global à tous les joueurs en ligne, permettant de compléter les tâches AFK +5% plus vite pour 10 minutes (cumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -763,7 +763,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pour 20 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leurs processeurs synaptique afin de les doter de capacités mentales surhumaines pour une courte période.\r\n        \r\n        Quand utilisé, donne un buff global à tous les joueurs en ligne, permettant de compléter les tâches AFK +40% plus vite pour 20 minutes (cumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -773,7 +773,7 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielle de l'utilisateur.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 180% le gain d'XP pour 20 minutes\r\n        ",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielles de l'utilisateur.\r\n\r\n        Quand utilisé, donne un buff global à tous les joueurs en ligne, augmente de 180% le gain d'XP pour 20 minutes\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -783,7 +783,7 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${currencyName}.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pour 20 minutes (stackable)\r\n        ",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${currencyName}.\r\n\r\n        Quand utilisé, donne un buff global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pour 20 minutes (stackable)\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${currencyName}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        ",
  	 	 	 	"vars": [
  	 	 	 	 	"currencyName"
@@ -796,7 +796,7 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Unité de traitement neuronal commercialement utilisée (NPU). Livré avec une IA à usage général. \r\n        Vous pouvez l'utiliser pour déployer un robot qui va farmer un donjon pour vous.",
+ 	 	 	 	"trans": "Unité de traitement neuronal utilisée commercialement (NPU). Livrée avec une IA à usage général. \r\n        Vous pouvez l'utiliser pour déployer un robot qui va farmer un donjon pour vous.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
@@ -806,7 +806,7 @@
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dispositif de stockage d'énergie portable, il peut être utilisé comme munitions pour vos armes spéciales",
+ 	 	 	 	"trans": "Dispositif de stockage d'énergie portable, il peut être utilisé comme munition pour vos armes spéciales",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
@@ -822,21 +822,21 @@
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pièces de munitions tech",
+ 	 	 	 	"trans": "Pièces de munition tech",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Pièces de munitions tech, celles-ci peuvent être couramment trouvées circulant sur le marché noir. \r\n        Vous pouvez les utiliser pour fabriquer des munitions si vous savez comment.",
+ 	 	 	 	"trans": "Pièces de munition tech, celles-ci peuvent être couramment trouvées circulant sur le marché noir. \r\n        Vous pouvez les utiliser pour fabriquer des munitions si vous savez comment.",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
  	 	"ammoTech2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pièces de munitions tech Militaire",
+ 	 	 	 	"trans": "Pièces de munitions tech militaire",
  	 	 	 	"eng": "Military ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Les pièces de munitions tech de qualité militaire, couramment utilisées par le gouvernement, l'armée et les élites, peuvent être utilisées pour fabriquer des munitions si vous avez le savoir-faire",
+ 	 	 	 	"trans": "Les pièces de munition tech de qualité militaire, couramment utilisées par le gouvernement, l'armée et les élites, peuvent être utilisées pour fabriquer des munitions si vous avez le savoir-faire",
  	 	 	 	"eng": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how"
  	 	 	}
  	 	},
@@ -846,7 +846,7 @@
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Débris technologiques provenant d'équipements démontés, ils peuvent être rétroconçus pour gagner des points d'impression. \r\n        Vous pouvez effectuer rétro ingénierie dans le hub emplois.",
+ 	 	 	 	"trans": "Débris technologiques provenant d'équipements démontés, ils peuvent être rétroconçus pour gagner des points d'impression. \r\n        Vous pouvez effectuer rétro ingénierie dans le hub emploi.",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
